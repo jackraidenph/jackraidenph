@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**JackRaidenPH/jackraidenph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋
+### ⚙️Minecraft Mod Dev at your service 
+### ✒️Works, honorable enough to mention:
+#### - [Dragon Survival [Forge]](https://www.curseforge.com/minecraft/mc-mods/dragons-survival)
+#### - [BuildcraftRF](https://www.curseforge.com/minecraft/mc-mods/buildcraft-rf)
+#### - [AIOT++](https://www.curseforge.com/minecraft/mc-mods/aiot-forge)
+#### - Various commissions for YouTube creators / private use
+### 🔧Familiar with:
+#### - Java / JavaFX / JUnit
+#### - C++ / Microsoft Unit Testing Framework for C++
+#### - SQL / SQLite / PostreSQL
+#### - Python / PyTorch
+#### - JavaScript
+#### - C# / Windows Forms
+### 🌐Languages:
+#### - English
+#### - Belarusian
+#### - Ukrainian
+###### *Artificial Intelligence engineer by education. 
+![](https://komarev.com/ghpvc/?username=jackraidenph&color=023020)
