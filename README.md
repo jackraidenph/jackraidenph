@@ -6,7 +6,8 @@
 #### - [AIOT++](https://www.curseforge.com/minecraft/mc-mods/aiot-forge)
 #### - Various commissions for YouTube creators / private use
 ### 🔧Familiar with:
-#### - Java / JavaFX / JUnit / JDBC
+#### - Java / JavaFX / JUnit / JDBC / Gradle / Maven
+#### - Git
 #### - ~~C++ / Microsoft Unit Testing Framework for C++~~ (Have experience, yet prefer not to work with)
 #### - SQL / SQLite / PostgreSQL
 #### - Python / PyTorch
