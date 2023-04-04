@@ -7,8 +7,8 @@
 #### - Various commissions for YouTube creators / private use
 ### 🔧Familiar with:
 #### - Java / JavaFX / JUnit / JDBC
-#### - C++ / Microsoft Unit Testing Framework for C++
-#### - SQL / SQLite / PostreSQL
+#### - ~~C++ / Microsoft Unit Testing Framework for C++~~ (Have experience, yet prefer not to work with)
+#### - SQL / SQLite / PostgreSQL
 #### - Python / PyTorch
 #### - JavaScript
 #### - C# / Windows Forms
