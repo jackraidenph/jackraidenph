@@ -10,6 +10,7 @@
 #### - Git
 #### - ~~C++ / Microsoft Unit Testing Framework for C++~~ (Have experience, yet prefer not to work with)
 #### - SQL / SQLite / PostgreSQL
+#### - OpenGL / GLSL
 #### - Python / PyTorch
 #### - JavaScript
 #### - C# / Windows Forms
