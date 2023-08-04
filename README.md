@@ -8,7 +8,7 @@
 ### 🔧Familiar with:
 #### - Java / JavaFX / JUnit / JDBC / Gradle / Maven
 #### - Git
-#### - ~~C++ / Microsoft Unit Testing Framework for C++~~ (Have experience, yet prefer not to work with)
+#### - C++ / Microsoft Unit Testing Framework for C++
 #### - SQL / SQLite / PostgreSQL
 #### - OpenGL / GLSL
 #### - Python / PyTorch
