@@ -13,9 +13,5 @@
 #### - Python / PyTorch
 #### - JavaScript
 #### - C# / Windows Forms
-### 🌐Languages:
-#### - English
-#### - Belarusian
-#### - Ukrainian
 ###### *Artificial Intelligence engineer by education. 
 ![](https://komarev.com/ghpvc/?username=jackraidenph&color=023020)
