@@ -8,6 +8,7 @@
 #### - Java / JavaFX / JUnit / JDBC / Gradle / Maven
 #### - Git
 #### - C++ / Microsoft Unit Testing Framework for C++
+#### - Salesforce / SOQL / APEX
 #### - SQL / SQLite / PostgreSQL
 #### - OpenGL / GLSL
 #### - Python / PyTorch
