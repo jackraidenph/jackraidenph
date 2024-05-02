@@ -12,8 +12,13 @@ Minecraft Mod Dev & AI Engineer at your service
 
 <div align="center">
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackAures1&repo=DragonSurvival)](https://github.com/BlackAures1/DragonSurvival)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRaidenPH&repo=BuildCraftRF)](https://github.com/JackRaidenPH/BuildCraftRF)
+  <a href="https://github-readme-stats.vercel.app">
+    <img style='height: 150px;' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackAures1&repo=DragonSurvival&theme=transparent" />
+  </a>
+  
+  <a href="https://github-readme-stats.vercel.app">
+    <img style='height: 150px;' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JackRaidenPH&repo=BuildCraftRF&theme=transparent" />
+  </a>
 
 </div>
 
