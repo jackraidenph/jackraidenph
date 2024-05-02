@@ -13,11 +13,11 @@ Minecraft Mod Dev & AI Engineer at your service
 <div align="center">
 
   <a href="https://github.com/BlackAures1/DragonSurvival">
-    <img style='height: 100px;' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackAures1&repo=DragonSurvival&theme=transparent" />
+    <img style='height: 150px;' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackAures1&repo=DragonSurvival&theme=transparent" />
   </a>
   
   <a href="https://github.com/JackRaidenPH/BuildCraftRF">
-    <img style='height: 100px;' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JackRaidenPH&repo=BuildCraftRF&theme=transparent" />
+    <img style='height: 150px;' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JackRaidenPH&repo=BuildCraftRF&theme=transparent" />
   </a>
 
 </div>
