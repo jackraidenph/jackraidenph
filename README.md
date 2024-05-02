@@ -12,11 +12,11 @@ Minecraft Mod Dev & AI Engineer at your service
 
 <div align="center">
 
-  <a href="https://github-readme-stats.vercel.app">
+  <a href="https://github.com/BlackAures1/DragonSurvival">
     <img style='height: 100px;' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackAures1&repo=DragonSurvival&theme=transparent" />
   </a>
   
-  <a href="https://github-readme-stats.vercel.app">
+  <a href="https://github.com/JackRaidenPH/BuildCraftRF">
     <img style='height: 100px;' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JackRaidenPH&repo=BuildCraftRF&theme=transparent" />
   </a>
 
@@ -26,14 +26,14 @@ Minecraft Mod Dev & AI Engineer at your service
 
 <div align="center">
   
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img style='height: 175px;' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jackraidenph&theme=transparent" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img style='height: 175px; ' align="center" src="https://github-readme-stats-dusky-iota-11.vercel.app/api/top-langs/?username=jackraidenph&size_weight=0.65&count_weight=0.35&layout=compact&theme=transparent" />
   </a>
   
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img style='height: 150px;' align="center" src="https://github-readme-stats-dusky-iota-11.vercel.app/api/wakatime?username=@jackraidenph&theme=transparent" />
   </a>
   
