@@ -9,7 +9,8 @@ Minecraft Mod Dev & AI Engineer at your service
 </div>
 
 <h2 align="center"> 
-  ✒️Modding<br/>
+  <img height=24 src="https://ftbwiki.org/images/d/de/Item_Diamond_Gear_%28BuildCraft%29.png"/>Modding
+  <br/>
   <img src="https://cf.way2muchnoise.eu/author/full_jackraidenph_downloads.svg" />
 </h2>
 
