@@ -12,11 +12,11 @@ Minecraft Mod Dev & AI Engineer at your service
 
 <div align="center">
 
-  <a href="https://github.com/BlackAures1/DragonSurvival">
+  <a href="https://www.curseforge.com/minecraft/mc-mods/dragons-survival">
     <img style='height: 125px;' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackAures1&repo=DragonSurvival&theme=transparent" />
   </a>
   
-  <a href="https://github.com/JackRaidenPH/BuildCraftRF">
+  <a href="https://www.curseforge.com/minecraft/mc-mods/buildcraft-rf">
     <img style='height: 125px;' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JackRaidenPH&repo=BuildCraftRF&theme=transparent" />
   </a>
 
