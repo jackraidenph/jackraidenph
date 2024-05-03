@@ -11,7 +11,6 @@ Minecraft Mod Dev & AI Engineer at your service
 <h2 align="center"> 
   ✒️Modding<br/>
   <img src="https://cf.way2muchnoise.eu/author/full_jackraidenph_downloads.svg" />
-  <img src="" />
 </h2>
 
 <div align="center">
