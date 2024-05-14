@@ -38,7 +38,7 @@ Minecraft Mod Dev & AI Engineer at your service
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style='height: 150px;' align="center" src="https://github-readme-stats-dusky-iota-11.vercel.app/api/wakatime?username=jackraidenph&theme=transparent" />
+    <img style='height: 150px;' align="center" src="https://github-readme-stats-dusky-iota-11.vercel.app/api/wakatime?username=jackraidenph&theme=transparent&langs_count=5" />
   </a>
   
 </div>
