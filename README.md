@@ -1,6 +1,4 @@
-<h1 align="center">⚙️Hi, Jack here!<br/>
-Minecraft Mod Dev & AI Engineer at your service
-</h1>
+<h1 align="center"></h1>
 
 <div align="center">
 
